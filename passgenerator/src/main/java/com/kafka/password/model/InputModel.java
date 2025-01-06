@@ -1,4 +1,4 @@
-package com.kafka.password;
+package com.kafka.password.model;
 
 public class InputModel {
 
